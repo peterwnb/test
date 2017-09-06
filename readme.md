@@ -32,7 +32,7 @@ sudo apt-get -y install docker-ce=[VERSION]
 ```shell
  sudo apt-get -y install docker-ce
 ```
-##CentOS 7 (使用yum进行安装)
+## CentOS 7 (使用yum进行安装)
 
 - step 1: 安装必要的一些系统工具
 ```shell
